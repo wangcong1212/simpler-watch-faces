@@ -1,10 +1,11 @@
-# Atlas Watch Faces
+# Simpler by WC
 
-A simple GitHub Pages support page written in Markdown.
+A bilingual GitHub Pages site for Simpler by WC. The current guides are `simpler-rhythm*.md`; obsolete `atlas-rhythm*.md` pages are removed.
 
 ## Files to upload
 
-- `index.md` — the published website page
+- `index.md` and `zh.md` — the English and Chinese home pages
+- `simpler-rhythm.md` and `simpler-rhythm-zh.md` — the current guides
 - `README.md` — repository instructions
 - `assets/wechat.png` — WeChat Pay QR code
 - `assets/alipay.png` — Alipay QR code
@@ -13,7 +14,7 @@ A simple GitHub Pages support page written in Markdown.
 
 In the repository, open **Settings → Pages**, select the `main` branch and `/ (root)`, then save. The published page will be available at:
 
-`https://wangcong19901212.github.io/atlas-watch-faces/`
+`https://wangcong1212.github.io/simpler-watch-faces/`
 
 ## Update later
 

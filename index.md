@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Atlas Watch Faces
+title: Simpler by WC
 ---
 
-# Atlas Watch Faces
+# Simpler by WC
 
 [English](./) | [中文](zh.html)
 
@@ -15,17 +15,17 @@ Clean, modern and data-rich watch faces for Garmin devices.
 
 ## Watch Faces
 
-### Atlas One
+### Simpler · One
 
 AMOLED watch face for Garmin Forerunner 965 and compatible devices.
 
-> Add your published Garmin Connect IQ link here.
+[Get Simpler · One on Connect IQ](https://apps.garmin.com/apps/61baf0ea-2306-4ad9-806f-b85006436cc0)
 
-### Atlas Rhythm
+### Simpler · Rhythm
 
 **Available now.** A personal rhythm watch face for Garmin devices. It compares the current pattern with your own historical baseline across Energy, Stress, Recovery and RHR — not with a generic population score.
 
-[Read the Atlas Rhythm guide](atlas-rhythm.html) · [阅读中文说明](atlas-rhythm-zh.html)
+[Get Simpler · Rhythm on Connect IQ](https://apps.garmin.com/apps/3cd1805e-6530-436c-945f-7b26cd9e5029) · [English guide](simpler-rhythm.html) · [中文说明](simpler-rhythm-zh.html)
 
 **Supported devices**
 
@@ -35,6 +35,7 @@ AMOLED watch face for Garmin Forerunner 965 and compatible devices.
 - epix (Gen 2)
 - epix Pro (42 mm, 47 mm and 51 mm)
 - fēnix 8 (43 mm, 47 mm and 51 mm), and fēnix E
+- Color MIP: Forerunner 255/255S and 955, fēnix 7/7S/7X (including Pro variants), Enduro 3, and fēnix 8 Solar (47/51 mm)
 
 The face supports English and Simplified Chinese. Personal baselines need enough wearable data; “data insufficient” is expected during the first days, after an uninstall, or when relevant Garmin data is unavailable.
 
@@ -56,10 +57,10 @@ Your support helps me continue creating new Garmin watch faces and improving exi
 
 ### International
 
-[Support Atlas Watch Faces on Ko-fi](https://ko-fi.com/atlaswatch)
+[Support Simpler by WC on Ko-fi](https://ko-fi.com/simplerbywc)
 
 ---
 
-## About Atlas Watch Faces
+## About Simpler by WC
 
-Atlas Watch Faces focuses on creating clean, modern and data-rich watch faces for Garmin devices.
+Independent Garmin watch faces by WC (Wang Cong), designed to make everyday data easier to read.

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Atlas Watch Faces
+title: 简单点儿 · WC
 ---
 
-# Atlas Watch Faces
+# 简单点儿 · WC
 
 [English](./) | [中文](zh.html)
 
@@ -15,17 +15,17 @@ title: Atlas Watch Faces
 
 ## 表盘作品
 
-### Atlas One
+### 简单点儿·一览
 
 适用于 Garmin Forerunner 965 及兼容设备的 AMOLED 表盘。
 
-> 在这里添加已发布的 Garmin Connect IQ 链接。
+[在 Connect IQ 获取「简单点儿·一览」](https://apps.garmin.com/apps/61baf0ea-2306-4ad9-806f-b85006436cc0)
 
-### Atlas Rhythm
+### 简单点儿·节律
 
 **现已发布。** 面向 Garmin 设备的个人节律表盘：通过能量、压力、夜间恢复与静息心率四项指标，对比你的个人历史常态，而不是套用通用人群评分。
 
-[查看 Atlas Rhythm 中文说明](atlas-rhythm-zh.html) · [English guide](atlas-rhythm.html)
+[在 Connect IQ 获取「简单点儿·节律」](https://apps.garmin.com/apps/3cd1805e-6530-436c-945f-7b26cd9e5029) · [中文说明](simpler-rhythm-zh.html) · [English guide](simpler-rhythm.html)
 
 **支持的设备**
 
@@ -35,6 +35,7 @@ title: Atlas Watch Faces
 - epix（Gen 2）
 - epix Pro（42 mm、47 mm、51 mm）
 - fēnix 8（43 mm、47 mm、51 mm）和 fēnix E
+- 彩色 MIP：Forerunner 255/255S、955，fēnix 7/7S/7X（含 Pro）、Enduro 3、fēnix 8 Solar（47/51 mm）
 
 表盘支持英语和简体中文。个人基线需要积累足够的佩戴数据；首次使用、卸载后重新安装，或 Garmin 相关数据暂不可用时，显示“数据不足”属于正常情况。
 
@@ -56,10 +57,10 @@ title: Atlas Watch Faces
 
 ### 国际用户
 
-[通过 Ko-fi 支持 Atlas Watch Faces](https://ko-fi.com/atlaswatch)
+[通过 Ko-fi 支持简单点儿 · WC](https://ko-fi.com/simplerbywc)
 
 ---
 
-## 关于 Atlas Watch Faces
+## 关于简单点儿 · WC
 
-Atlas Watch Faces 专注于为 Garmin 设备打造简洁、现代、信息丰富的表盘。
+王丛（WC）独立开发 Garmin 表盘，希望让每天的数据更容易看懂。
